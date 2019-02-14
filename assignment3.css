@@ -1,0 +1,41 @@
+body {
+}
+
+h1 {
+  color: navy;
+  font-size: 50px;
+  font-family: Palatino;
+}
+
+h2 {
+  color: navy;
+  font-size: 30px;
+  font-family: Palatino;
+}
+
+blockquote {
+  color: navy;
+  font-size: 20px;
+  font-family: Palatino;
+}
+
+p {
+  font-size: 18px;
+  font-family: Palatino;
+}
+  
+table {
+  font-size: 18px;
+  font-family: Palatino;
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid black;
+  padding: 6px;
+}
+
+.split {
+  text-align: center;
+}
